@@ -1,7 +1,6 @@
 # jpa01-anikaaac
 
-Deployed at: https://anikaaac.dokku-XX.cs.ucsb.edu
-
+Deployed at: https://jpa01-anikaaac.dokku-07.cs.ucsb.edu
 
 # About this repo
 
